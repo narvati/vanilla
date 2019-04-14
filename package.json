@@ -1,7 +1,10 @@
 {
-  "name": "parcel-sandbox",
+  "name": "vanilla",
   "version": "1.0.0",
   "description": "Simple Parcel Sandbox",
+  "author": "narvati@gmail.com",
+  "license": "MIT",
+  "private": false,
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -12,5 +15,13 @@
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/narvati/vanilla/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narvati/vanilla.git"
+  },
+"homepage": "https://github.com/narvati/vanilla#readme"
 }
