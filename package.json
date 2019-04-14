@@ -11,7 +11,9 @@
     "build": "parcel build index.html",
     "now-build": "yarn build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "parcel-bundler": "1.12.3"
+  },
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
@@ -23,5 +25,6 @@
     "type": "git",
     "url": "git+https://github.com/narvati/vanilla.git"
   },
-"homepage": "https://github.com/narvati/vanilla#readme"
+  "homepage": "https://github.com/narvati/vanilla#readme",
+  "keywords": []
 }
